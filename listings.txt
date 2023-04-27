@@ -1,0 +1,9 @@
+1#Brooke Crider#4/20/2023#12:00 AM#60#False#False
+2#Brooke Crider#5/2/2023#12:00 AM#65#False#False
+3#Jeff Lucas#4/25/2023#12:00 AM#50#True#False
+4#Camryn Crider#4/27/2023#12:00 AM#50#False#False
+5#Kyle Knudson#5/3/2023#12:00 AM#50#False#False
+6#Wagner Osborne#6/20/2023#12:00 AM#50#False#False
+7#Chase Callahan#7/1/2023#12:00 AM#50#True#False
+8#Brooke Crider#8/10/2024#12:00 AM#50#True#False
+9#Jeff Lucas#1/10/2024#12:00 AM#75#False#False

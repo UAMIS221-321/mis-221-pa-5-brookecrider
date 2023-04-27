@@ -1,0 +1,7 @@
+1#Brooke Crider#123 Dirt Rd#bcrider@crimson.ua.edu#False
+2#Kyle Knudson#45 Grove, Cullman, Al 35033#kknud@gmail.com#True
+3#Wagner Osborne#36 Sunny Dr, Destin, Fl 45678#wagnero@gmail.com#False
+4#Chase Callahan#45 Clear Blvd, Birmingham, Al#ccallahan@yahoo.com#False
+5#Jeff Lucas#123 Dirt Rd, DirtHood, Al 12345#jlucas@crimson.ua.edu#True
+6#Camryn Crider#36 Audubon Place, Tuscaloosa, AL 35401#camrync12@gmail.com#False
+7#John Doe#1234 Dirt Road#jdoe@gmail.com#True
